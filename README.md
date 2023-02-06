@@ -1,6 +1,5 @@
 # BLIP-2 img2text webUI
 
-This repository is used for teaching with 
 This repository is an img2text frontend page for teaching purposes.
 Based on [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) and [gradio](https://github.com/gradio-app/gradio)
 ---
